@@ -28,13 +28,10 @@
 |-----------|---------------|----------------|
 | 🩺 **Personalized Healthcare Recommender** | Python, GMM | Recommends health actions using clustering |
 | 🧠 **AI Interview Prep System** | HTML, JS, OpenCV, MySQL | Randomized questions, fraud detection, speech & chat interface |
-| 🎮 **Rock Paper Scissors Gesture Game** | Python, OpenCV | Predicts hand gestures for live gameplay |
-| 🏨 **Hotel Reservation System** | Java, JDBC | Reservation system for hotels |
-| ✈️ **Travel Booking System** | Java | GUI-based application for trip bookings |
-| 📊 **Word Counter Tool** | Java Swing | Counts words, characters with UI |
 | 💉 **Drug Traceability on Blockchain** | Ethereum, Solidity | Prevents counterfeit drugs in healthcare supply chain |
 | 🩸 **Blood Bank Management System** | HTML, CSS, JS | Web system for donor-patient match |
-
+| **DSAlytics** | MERN stack |
+DSAlytics is a full‑stack MERN web platform designed to help learners and professionals practice, visualize, and master DSA |
 ---
 
 ## 🛠️ Skills
