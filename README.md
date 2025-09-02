@@ -31,6 +31,7 @@
 | 💉 **Drug Traceability on Blockchain** | Ethereum, Solidity | Prevents counterfeit drugs in healthcare supply chain |
 | 🩸 **Blood Bank Management System** | HTML, CSS, JS | Web system for donor-patient match |
 | **DSAlytics** | MERN stack | web platform designed to help learners and professionals practice, visualize, and master DSA|
+|**Paint APP** | tkinter, Python, Canvas | demo Paint app using Tkinter |
 ---
 
 ## 🛠️ Skills
